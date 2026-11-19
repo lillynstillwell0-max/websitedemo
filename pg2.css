@@ -1,0 +1,256 @@
+body {
+  background-color: #d7c9eb;
+}
+.navbar2 {
+     background: #5f2f73;
+position: absolute;
+width: 100%;
+height: 107px;
+left: 0;
+top: 0;
+    z-index:-1;
+}
+.portfolio {  
+ font-family: "Lato", sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 41px;
+color: #FFFFFF;
+position: absolute;
+left: 93%;
+right: 68.44%;
+top: 3%;
+bottom: 91%;
+width: 100px;
+background: #400e31;
+border-radius: 18px;
+}
+
+.contact  {
+
+    font-family: "Lato", sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 41px;
+color: #FFFFFF;
+position: absolute;
+left: 87%;
+right: 68.74%;
+top: 3%;
+bottom: 91%;
+width: 100px;
+background: #400e31;
+border-radius: 18px;
+}
+.aboutb  {
+   font-family: "Lato", sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 41px;
+color: #FFFFFF;
+position: absolute;
+left: 81%;
+right: 68.74%;
+top: 3%;
+bottom: 91%;
+width: 100px;
+background: #400e31;
+border-radius: 18px;
+    z-index: 1;
+}
+.logo {
+position: absolute;
+left: -3%;
+right: -68.44%;
+top: -9%;
+bottom: 91%;
+    }
+.one {
+    background-color: #A55B4B;
+  position: absolute;
+width: 40%;
+height: 500px;
+left: 60px;
+top: 10%;
+background: #797594;
+border: 21px solid #400e31;
+border-radius: 44px;
+}
+.two {
+    background-color: #A55B4B;
+  position: absolute;
+width: 40%;
+height: 500px;
+left: 930px;
+top: 50%;
+background: #797594;
+border: 21px solid #400e31;
+border-radius: 44px;
+}
+.three {
+    background-color: #A55B4B;
+  position: absolute;
+width: 40%;
+height: 500px;
+left: 60px;
+top: 50%;
+background: #797594;
+border: 21px solid #400e31;
+border-radius: 44px;
+}
+.four {
+    background-color: #A55B4B;
+  position: absolute;
+width: 40%;
+height: 500px;
+left: 930px;
+top: 10%;
+background: #797594;
+border: 21px solid #400e31;
+border-radius: 44px;
+    z-index: -1;
+}
+.sec3{
+   background-color: #A55B4B;
+  position: absolute;
+width: 91%;
+height: 1400px;
+left: 60px;
+top: 20%;
+background: #9962ad;
+border: 21px solid #5f2f73;
+border-radius: 44px;
+ z-index: -2;
+}
+.footercolor {
+       background: #5f2f73;
+position: absolute;
+width: 100%;
+height: 107px;
+left: 0;
+top: 190%;
+    z-index:-1;
+    text-align: center;
+    font-family: "Lato", sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 23px;
+}
+.advanced {
+    font-family: 'Abril Fatface', serif;
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 49px;
+text-align: center;
+color: white;
+  position: absolute;
+width: 40%;
+height: 500px;
+left: 61px;
+top: 20%;
+}
+.interactive {
+    font-family: 'Abril Fatface', serif;
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 49px;
+text-align: center;
+color: white;
+  position: absolute;
+width: 40%;
+height: 500px;
+left: 54%;
+top: 20%;
+}
+.motion {
+      font-family: 'Abril Fatface', serif;
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 49px;
+text-align: center;
+color: white;
+  position: absolute;
+width: 40%;
+height: 500px;
+left: 55%;
+top: 62%
+}
+.intermediate{
+    font-family: 'Abril Fatface', serif;
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 49px;
+text-align: center;
+color: white;
+  position: absolute;
+width: 40%;
+height: 500px;
+left: 60px;
+top: 62%
+}
+.disc{
+     font-family: "Lato", sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 30px;
+    text-align: center;
+color: white;
+position: absolute;
+    width:30%;
+height: 500px;
+left: 160px;
+top: 25%;
+}
+.disc2 {
+      font-family: "Lato", sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 30px;
+    text-align: center;
+color: white;
+position: absolute;
+width:30%;
+height: 500px;
+left: 160px;
+top: 67%;
+    z-index: 1;
+}
+.disc3 {
+     font-family: "Lato", sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 30px;
+    text-align: center;
+color: white;
+    position: absolute;
+width:30%;
+height: 500px;
+left: 60%;
+top: 25%;
+}
+.disc6{
+     font-family: "Lato", sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 30px;
+    text-align: center;
+color: white;
+position: absolute;
+width:30%;
+height: 500px;
+left: 60%;
+top: 67%;
+    z-index: 1;
+    
+}

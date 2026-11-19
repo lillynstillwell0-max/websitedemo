@@ -1,0 +1,233 @@
+body {
+  background-color: #d7c9eb;
+}
+.navbar2 {
+     background: #5f2f73;
+position: absolute;
+width: 100%;
+height: 107px;
+left: 0;
+top: 0;
+    z-index:-1;
+}
+.portfolio {  
+ font-family: "Lato", sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 41px;
+color: #FFFFFF;
+position: absolute;
+left: 93%;
+right: 68.44%;
+top: 3%;
+bottom: 91%;
+width: 100px;
+background: #400e31;
+border-radius: 18px;
+}
+
+.contact  {
+
+    font-family: "Lato", sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 41px;
+color: #FFFFFF;
+position: absolute;
+left: 87%;
+right: 68.74%;
+top: 3%;
+bottom: 91%;
+width: 100px;
+background: #400e31;
+border-radius: 18px;
+}
+.aboutb  {
+   font-family: "Lato", sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 41px;
+color: #FFFFFF;
+position: absolute;
+left: 81%;
+right: 68.74%;
+top: 3%;
+bottom: 91%;
+width: 100px;
+background: #400e31;
+border-radius: 18px;
+    z-index: 1;
+}
+.logo {
+position: absolute;
+left: -3%;
+right: -68.44%;
+top: -9%;
+bottom: 91%;
+    }
+.one {
+    background-color: #A55B4B;
+  position: absolute;
+width: 25%;
+height: 25%;
+left: 60px;
+top: 10%;
+background: #797594;
+border: 21px solid #400e31;
+border-radius: 44px;
+}
+.four {
+    background-color: #A55B4B;
+  position: absolute;
+width: 25%;
+height: 25%;
+left: 36%;
+top: 10%;
+background: #797594;
+border: 21px solid #400e31;
+border-radius: 44px;
+}
+.two {
+      background-color: #A55B4B;
+  position: absolute;
+width: 25%;
+height: 25%;
+left: 68%;
+top: 10%;
+background: #797594;
+border: 21px solid #400e31;
+border-radius: 44px;
+}
+.brand1 {
+    background-color: #A55B4B;
+  position: absolute;
+width: 25%;
+height: 25%;
+left: 18%;
+top: 50%;
+background: #797594;
+border: 21px solid #400e31;
+border-radius: 44px;
+}
+.brand2 {
+    background-color: #A55B4B;
+  position: absolute;
+width: 25%;
+height: 25%;
+left: 60%;
+top: 50%;
+background: #797594;
+border: 21px solid #400e31;
+border-radius: 44px;
+}
+.brand3{
+      background-color: #A55B4B;
+  position: absolute;
+width: 25%;
+height: 25%;
+left: 68%;
+top: 50%;
+background: #797594;
+border: 21px solid #400e31;
+border-radius: 44px;
+}
+.sec3{
+   background-color: #A55B4B;
+  position: absolute;
+width: 91%;
+height: 1400px;
+left: 60px;
+top: 20%;
+background: #9962ad;
+border: 21px solid #5f2f73;
+border-radius: 44px;
+ 
+}
+.footercolor {
+       background: #5f2f73;
+position: absolute;
+width: 100%;
+height: 107px;
+left: 0%;
+top: 190%;
+    z-index:-1;
+    text-align: center;
+    font-family: "Lato", sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 23px;
+}
+.p2{
+    font-family: 'Abril Fatface', serif;
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 49px;
+text-align: center;
+color: white;
+     position: absolute;
+width: 25%;
+height: 25%;
+left: 37%;
+top: 35%;   
+    z-index: 1
+}
+.p3{
+    font-family: 'Abril Fatface', serif;
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 49px;
+text-align: center;
+color: white;
+      position: absolute;
+width: 25%;
+height: 25%;
+left: 69%;
+top: 35%; 
+}
+.p7 {
+    font-family: 'Abril Fatface', serif;
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 49px;
+text-align: center;
+color: white;
+     position: absolute;
+width: 25%;
+height: 25%;
+left: 61px;
+top: 35%;
+}
+.p4 {
+    font-family: 'Abril Fatface', serif;
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 49px;
+text-align: center;
+color: white;
+     position: absolute;
+width: 25%;
+height: 25%;
+left: 19%;
+top: 75%;
+}
+.p5{
+    font-family: 'Abril Fatface', serif;
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 49px;
+text-align: center;
+color: white;
+     position: absolute;
+width: 25%;
+height: 25%;
+left: 61%;
+top: 75%;
+}
